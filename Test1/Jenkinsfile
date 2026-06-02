@@ -14,7 +14,7 @@ pipeline {
                 checkout scm
             }
         }
-
+//ㅅㅂ
         stage('Prepare') {
             steps {
                 sh '''
